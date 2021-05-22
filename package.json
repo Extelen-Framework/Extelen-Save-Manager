@@ -1,0 +1,14 @@
+{
+  "name": "com.extelen.savemanager",
+  "version": "1.0.0",
+  "displayName": "Extelen Save Manager",
+  "description": "A simple save manager without encryptation.",
+  "unity": "2020.3", 
+  "dependencies": {
+  },
+  "keywords": ["data", "save", "load"],
+  "author": {
+      "name": "Rodrigo Saguer",
+      "email": "extelendev@gmail.com"
+  }
+}
