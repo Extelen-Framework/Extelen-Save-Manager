@@ -2,7 +2,7 @@
 using System.IO;
 using UnityEngine;
 
-namespace Extelen.Data
+namespace SaveManager
 {
 
     public static class SaveManager

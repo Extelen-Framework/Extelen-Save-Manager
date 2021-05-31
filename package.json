@@ -1,6 +1,6 @@
 {
   "name": "com.extelen.savemanager",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "[ETL] Save Manager",
   "description": "A simple save manager without encryptation.",
   "unity": "2020.3", 
